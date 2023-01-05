@@ -3,6 +3,8 @@ let money: number = 12345.5
 let name2: string = "name"
 let logged: boolean = true
 
+// for more types, see the "functions" folder
+
 let someId = 123.45 // type inference
 let someName = "someName"
 
