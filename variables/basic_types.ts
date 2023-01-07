@@ -64,3 +64,12 @@ heroes.push("superman")
 heroesPowers.push(50)
 heroesPowers.push(100)
 heroCounter.push(350)
+
+let myMap: Map<string, number> = new Map()
+
+myMap.set("name 1", 1)
+myMap.set("name 2", 2)
+
+console.log(myMap)
+
+export {}
