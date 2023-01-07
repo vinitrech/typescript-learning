@@ -64,9 +64,3 @@ heroes.push("superman")
 heroesPowers.push(50)
 heroesPowers.push(100)
 heroCounter.push(350)
-
-let score: number | string = 33 // union type
-
-
-
-// for more types, see the "functions" folder
