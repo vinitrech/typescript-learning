@@ -29,3 +29,5 @@ const user: User = {
 }
 
 console.log(user, user.startTrail())
+
+export {}
